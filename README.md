@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/manuel-arnaldo-estrada-b53583261/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manuel-arnaldo-estrada-" height="30" width="40" /></a>
-<a href="https://fb.com/manu estrada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="manu estrada" height="30" width="40" /></a>
+<a href="https://www.facebook.com/manu.estrada.16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="manu estrada" height="30" width="40" /></a>
 <a href="https://instagram.com/manu_estrada_72" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manu_estrada_72" height="30" width="40" /></a>
 </p>
 
